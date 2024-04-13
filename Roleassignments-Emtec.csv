@@ -1,0 +1,90 @@
+﻿Assignment State,User Group Name,Role Name,Email,PrincipalName,Member Type
+Eligible,Admin JP,Global Administrator,Admin.JP@emtecinc.com,Admin.JP@emtecinc.com,Direct
+Eligible,admin mbs,Global Administrator,admin.mbs@emtecinc.com,admin.mbs@emtecinc.com,Direct
+Eligible,Fusion Admin TEMPORARY,Global Administrator,fusionadmin@emtecincadmin.onmicrosoft.com,fusionadmin@emtecincadmin.onmicrosoft.com,Direct
+Eligible,Fusion Temporary Teams Admin,Global Administrator,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,Direct
+Eligible,Admin AAP,User Administrator,admin.aap@emtecinc.com,admin.aap@emtecinc.com,Direct
+Eligible,Admin AD,User Administrator,Admin.AD@emtecinc.com,Admin.AD@emtecinc.com,Direct
+Eligible,Admin AD,Global Administrator,Admin.AD@emtecinc.com,Admin.AD@emtecinc.com,Direct
+Active,Admin AD,Global Administrator,Admin.AD@emtecinc.com,Admin.AD@emtecinc.com,Direct
+Eligible,Admin KS,User Administrator,admin.ks@emtecinc.com,admin.ks@emtecinc.com,Direct
+Eligible,Admin KS,Exchange Administrator,admin.ks@emtecinc.com,admin.ks@emtecinc.com,Direct
+Eligible,Admin AAP,Exchange Administrator,admin.aap@emtecinc.com,admin.aap@emtecinc.com,Direct
+Active,Admin AAP,User Reader,admin.aap@emtecinc.com,admin.aap@emtecinc.com,Direct
+Active,Admin AD,User Reader,Admin.AD@emtecinc.com,Admin.AD@emtecinc.com,Direct
+Active,Admin KS,User Reader,admin.ks@emtecinc.com,admin.ks@emtecinc.com,Direct
+Eligible,Admin PD,Global Administrator,,Admin.PD@emtecinc.com,Direct
+Eligible,Admin PA,Global Administrator,admin.PA@emtecinc.com,admin.PA@emtecinc.com,Direct
+Eligible,Manoj Nr Admin,Global Administrator,,admin.mn@emtecinc.com,Direct
+Eligible,Michael Pannapacker Admin,Global Administrator,,admin.mp@emtecinc.com,Direct
+Eligible,Admin AJ,Global Administrator,,admin.aj@emtecinc.com,Direct
+Eligible,Admin SS,Global Administrator,,admin.ss@emtecinc.com,Direct
+Eligible,Admin CH,Global Administrator,,admin.ch@emtecinc.com,Direct
+Active,Admin SS,Global Administrator,,admin.ss@emtecinc.com,Direct
+Eligible,Admin RR,Global Administrator,,Admin.RR@emtecinc.com,Direct
+Active,admin mbs,Teams Administrator,admin.mbs@emtecinc.com,admin.mbs@emtecinc.com,Direct
+Active,Admin PA,Global Reader,admin.PA@emtecinc.com,admin.PA@emtecinc.com,Direct
+Active,Admin PD,Global Reader,,Admin.PD@emtecinc.com,Direct
+Active,admin office 365,Helpdesk Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,ManageEngine ADManager Plus--2115604163,Helpdesk Administrator,,1f46a89b-26d7-4826-983e-0b9bb4684d6c,Direct
+Active,Bit Titan,Helpdesk Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,Global Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,Admin JP,Global Administrator,Admin.JP@emtecinc.com,Admin.JP@emtecinc.com,Direct
+Active,Bridge Migration Account,Global Administrator,bridge.migration@emtecincadmin.onmicrosoft.com,bridge.migration@emtecincadmin.onmicrosoft.com,Direct
+Active,Admin AJ,Global Administrator,,admin.aj@emtecinc.com,Direct
+Active,Admin RR,Global Administrator,,Admin.RR@emtecinc.com,Direct
+Active,Bit Titan,Global Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,Fusion Admin TEMPORARY,Global Administrator,fusionadmin@emtecincadmin.onmicrosoft.com,fusionadmin@emtecincadmin.onmicrosoft.com,Direct
+Active,Patrick Sinkula Admin PS,Global Administrator,,admin.ps@emtecinc.com,Direct
+Active,Admin CH,Global Administrator,,admin.ch@emtecinc.com,Direct
+Active,Fusion Temporary Teams Admin,Global Administrator,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,Direct
+Active,Power BI Service,Directory Readers,,00000009-0000-0000-c000-000000000000,Direct
+Active,ShareGate Apricot,Directory Readers,,fc6e8c0d-0316-409c-a5ef-cd4c9ae41331,Direct
+Active,Microsoft.Azure.SyncFabric,Directory Readers,,00000014-0000-0000-c000-000000000000,Direct
+Active,Microsoft Dynamics ERP,Directory Readers,,00000015-0000-0000-c000-000000000000,Direct
+Active,Viva Engage,Directory Readers,,00000005-0000-0ff1-ce00-000000000000,Direct
+Active,Microsoft.SMIT,Directory Readers,,8fca0a66-c008-4564-a876-ab3ae0fd5cff,Direct
+Active,MicrosoftAzureActiveAuthn,Directory Readers,,0000001a-0000-0000-c000-000000000000,Direct
+Active,On-Premises Directory Synchronization Service Account,Directory Synchronization Accounts,,Sync_CHI-EDC22A_bc183ff5dee4@emtecincadmin.onmicrosoft.com,Direct
+Active,On-Premises Directory Synchronization Service Account,Directory Synchronization Accounts,,Sync_TIER-EDC16A_250a4c63ee0b@emtecincadmin.onmicrosoft.com,Direct
+Active,On-Premises Directory Synchronization Service Account,Directory Synchronization Accounts,,Sync_TIER-EDC22A_ac62503947d8@emtecincadmin.onmicrosoft.com,Direct
+Active,On-Premises Directory Synchronization Service Account,Directory Synchronization Accounts,,Sync_CHI-ADFSSQL_8b2855e27fc8@emtecincadmin.onmicrosoft.com,Direct
+Active,Autopilot  Intune,Azure AD Joined Device Local Administrator,Intune.Autopilot@emtecinc.com,Intune.Autopilot@emtecinc.com,Direct
+Active,Pilot  Intune,Azure AD Joined Device Local Administrator,Intune.Pilot@emtecinc.com,Intune.Pilot@emtecinc.com,Direct
+Active,admin office 365,User Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,manageengine_service-306609335,User Administrator,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct
+Active,Bit Titan,User Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,Exchange Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,manageengine_service-306609335,Exchange Administrator,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct
+Active,Bit Titan,Exchange Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,Service Support Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,Bit Titan,Service Support Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,SharePoint Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,Admin JP,SharePoint Administrator,Admin.JP@emtecinc.com,Admin.JP@emtecinc.com,Direct
+Active,Phipps  John,SharePoint Administrator,John.Phipps@emtecinc.com,John.Phipps@emtecinc.com,Direct
+Active,Bridge Migration Account,SharePoint Administrator,bridge.migration@emtecincadmin.onmicrosoft.com,bridge.migration@emtecincadmin.onmicrosoft.com,Direct
+Active,Bit Titan,SharePoint Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,Teams Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,Phipps  John,Teams Administrator,John.Phipps@emtecinc.com,John.Phipps@emtecinc.com,Direct
+Active,Bridge Migration Account,Teams Administrator,bridge.migration@emtecincadmin.onmicrosoft.com,bridge.migration@emtecincadmin.onmicrosoft.com,Direct
+Active,manageengine_service-306609335,Teams Administrator,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct
+Active,Bit Titan,Teams Administrator,bit.titan@emtecincadmin.onmicrosoft.com,bit.titan@emtecincadmin.onmicrosoft.com,Direct
+Active,Fusion Admin TEMPORARY,Teams Administrator,fusionadmin@emtecincadmin.onmicrosoft.com,fusionadmin@emtecincadmin.onmicrosoft.com,Direct
+Active,Fusion Temporary Teams Admin,Teams Administrator,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,fusiontemporaryteams@emtecincadmin.onmicrosoft.com,Direct
+Active,Michael Pannapacker Admin,Global Reader,,admin.mp@emtecinc.com,Direct
+Active,Admin JP,Global Reader,Admin.JP@emtecinc.com,Admin.JP@emtecinc.com,Direct
+Active,Admin AJ,Global Reader,,admin.aj@emtecinc.com,Direct
+Active,admin mbs,Global Reader,admin.mbs@emtecinc.com,admin.mbs@emtecinc.com,Direct
+Active,manageengine_service-306609335,Global Reader,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct
+Active,Admin AD,Global Reader,Admin.AD@emtecinc.com,Admin.AD@emtecinc.com,Direct
+Active,Kevin Hayashi,Global Reader,Kevin.Hayashi@Progent.com,kevin.hayashi@emtecinc.com,Direct
+Active,Patrick Sinkula D6 Admin Reader Account,Global Reader,,D6.GReader@emtecincadmin.onmicrosoft.com,Direct
+Active,Manoj Nr Admin,Global Reader,,admin.mn@emtecinc.com,Direct
+Active,Admin CH,Global Reader,,admin.ch@emtecinc.com,Direct
+Active,Roberts  Ronnie,Global Reader,ronnie.roberts@emtecinc.com,Ronnie.Roberts@emtecinc.com,Direct
+Active,ManageEngine ADManager Plus--2115604163,Privileged Authentication Administrator,,1f46a89b-26d7-4826-983e-0b9bb4684d6c,Direct
+Active,manageengine_service-306609335,Privileged Authentication Administrator,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct
+Active,admin office 365,Compliance Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,admin mbs,Compliance Administrator,admin.mbs@emtecinc.com,admin.mbs@emtecinc.com,Direct
+Active,admin office 365,Compliance Data Administrator,brett.slawter@securedatainc.com,admin@emtecincadmin.onmicrosoft.com,Direct
+Active,manageengine_service-306609335,Privileged Role Administrator,,manageengine_service-306609335@emtecincadmin.onmicrosoft.com,Direct

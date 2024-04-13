@@ -1,0 +1,3 @@
+FirstName,LastName,UserPrincipalName,Manager,Group,JobTitle,EmployeeID,Address,EmployeeHireDate,OfficeLocation
+Alice,Johnson,alice.johnson@LearnsoftIT.onmicrosoft.com,MS.Dhoni@LearnsoftIT.onmicrosoft.com,IT Department,IT Analyst,54321,789 Oak St,2023-03-10,Office A
+Bob,Williams,bob.williams@LearnsoftIT.onmicrosoft.com,MS.Dhoni@LearnsoftIT.onmicrosoft.com,IT Department,IT Technician,98765,321 Pine St,2023-03-10,Office A

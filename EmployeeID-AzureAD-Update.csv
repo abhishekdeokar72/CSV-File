@@ -1,0 +1,5 @@
+UserPrincipalName,JobTitle,EmployeeID,Department,ManagerUPN
+Ajay.Deokar@LearnsoftIT.onmicrosoft.com,IT Manager,EMP12345,IT,Anil.deokar@LearnsoftIT.onmicrosoft.com
+Akshay.Kaware@LearnsoftIT.onmicrosoft.com,HR Specialist,EMP54321,HR,Anil.deokar@LearnsoftIT.onmicrosoft.com
+Anil.deokar@LearnsoftIT.onmicrosoft.com,Finance Analyst,EMP67890,Finance,Anil.deokar@LearnsoftIT.onmicrosoft.com
+,,,,

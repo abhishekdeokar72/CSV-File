@@ -1,0 +1,84 @@
+﻿Assignment State,User Group Name,Role Name,Email,PrincipalName,Member Type
+Active,BridgeNext,Attribute Definition Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Eligible,BridgeNext,Attribute Assignment Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Eligible,Patrick Sinkula Admin,Global Administrator,,admin.ps@bridgenext.com,Direct
+Eligible,Michael Pannapacker Admin,Global Administrator,admin.mp@bridgenext.com,admin.mp@bridgenext.com,Direct
+Eligible,Changdev Hattikar Admin,Global Administrator,admin.ch@bridgenext.com,admin.ch@bridgenext.com,Direct
+Active,BridgeNext,Attribute Assignment Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Eligible,Manoj NR Admin,Global Administrator,,admin.mn@bridgenext.com,Direct
+Eligible,Sandeep Sontakke Admin account,Global Administrator,,admin.ss@bridgenext.com,Direct
+Eligible,John Phipps Admin,Global Administrator,,admin.jp@bridgenext.com,Direct
+Eligible,Abhishek Deokar Admin,Global Administrator,admin.ad@bridgenext.com,admin.ad@bridgenext.com,Direct
+Eligible,Akshay Jagtap Admin,Global Administrator,,admin.aj@bridgenext.com,Direct
+Eligible,Brett Slawter Admin,Global Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,Manoj NR Admin,Global Reader,,admin.mn@bridgenext.com,Direct
+Active,Roberts  Ronnie,Global Reader,Ronnie.Roberts@definition6.com,Ronnie.Roberts@Bridgenext.com,Direct
+Eligible,Larry Cohen  Admin,Global Administrator,,admin.lc@bridgenext.com,Direct
+Eligible,Ashish Patil Admin,Global Administrator,,Admin.AP@bridgenext.com,Direct
+Eligible,Joseph Fontanez Admin,Global Administrator,,Admin.JF@bridgenext.com,Direct
+Eligible,Ronnie Roberts Admin,Global Administrator,,Admin.RR@bridgenext.com,Direct
+Active,Abhishek Deokar Admin,Global Administrator,admin.ad@bridgenext.com,admin.ad@bridgenext.com,Direct
+Eligible,Luis Allbritton Admin Account,Global Administrator,,admin.la@bridgenext.com,Direct
+Eligible,Luis Allbritton Admin Account,User Administrator,,admin.la@bridgenext.com,Direct
+Eligible,Brett Slawter Admin,Conditional Access Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Eligible,Changdev Hattikar Admin,Conditional Access Administrator,admin.ch@bridgenext.com,admin.ch@bridgenext.com,Direct
+Eligible,Luis Allbritton Admin Account,Conditional Access Administrator,,admin.la@bridgenext.com,Direct
+Eligible,Patrick Sinkula Admin,Conditional Access Administrator,,admin.ps@bridgenext.com,Direct
+Eligible,Manoj NR Admin,Conditional Access Administrator,,admin.mn@bridgenext.com,Direct
+Eligible,Brett Slawter Admin,Azure DevOps Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Eligible,Patrick Sinkula Admin,Azure DevOps Administrator,,admin.ps@bridgenext.com,Direct
+Eligible,Ronnie Roberts Admin,Azure DevOps Administrator,,Admin.RR@bridgenext.com,Direct
+Eligible,Mills  Matt,Azure DevOps Administrator,Matt.Mills@definition6.com,Matt.Mills@bridgenext.com,Direct
+Eligible,Darshan Patel Admin,Global Administrator,,admin.pd@bridgenext.com,Direct
+Active,Sandeep Sontakke Admin account,Global Administrator,,admin.ss@bridgenext.com,Direct
+Eligible,Sharath KS Admin,Global Administrator,,Admin.Ks@bridgenext.com,Direct
+Eligible,Mills  Matt,Global Administrator,Matt.Mills@definition6.com,Matt.Mills@bridgenext.com,Direct
+Eligible,Roberts  Ronnie,Global Administrator,Ronnie.Roberts@definition6.com,Ronnie.Roberts@Bridgenext.com,Direct
+Eligible,Admin AK (Amjad Khan),User Administrator,,Admin.AK@bridgenext.com,Direct
+Eligible,Admin RK (Rupesh Kumaran),User Administrator,,Admin.RK@bridgenext.com,Direct
+Eligible,Admin AK (Amjad Khan),Helpdesk Administrator,,Admin.AK@bridgenext.com,Direct
+Eligible,Admin RK (Rupesh Kumaran),Helpdesk Administrator,,Admin.RK@bridgenext.com,Direct
+Eligible,Admin AK (Amjad Khan),Exchange Administrator,,Admin.AK@bridgenext.com,Direct
+Eligible,Darshan Patel Admin,Conditional Access Administrator,,admin.pd@bridgenext.com,Direct
+Active,Darshan Patel Admin,Global Reader,,admin.pd@bridgenext.com,Direct
+Active,Sharath KS Admin,Global Reader,,Admin.Ks@bridgenext.com,Direct
+Active,Bit Titan,Global Administrator,bit.titan@bridgenext.com,bit.titan@bridgenext.com,Direct
+Active,Migration  Bridge,Global Administrator,bridge.migration@bridgenext.com,bridge.migration@bridgenext.com,Direct
+Active,John Phipps Admin,Global Administrator,,admin.jp@bridgenext.com,Direct
+Active,BridgeNext,Global Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,Larry Cohen  Admin,Global Administrator,,admin.lc@bridgenext.com,Direct
+Active,Cloud Service Delivery - Temp Admin,Global Administrator,csd@bridgenext.com,csd@bridgenext.com,Direct
+Active,Changdev Hattikar Admin,Global Reader,admin.ch@bridgenext.com,admin.ch@bridgenext.com,Direct
+Active,Akshay Jagtap Admin,Global Reader,,admin.aj@bridgenext.com,Direct
+Active,Ronnie Roberts Admin,Global Reader,,Admin.RR@bridgenext.com,Direct
+Active,Abhishek Deokar Admin,Global Reader,admin.ad@bridgenext.com,admin.ad@bridgenext.com,Direct
+Active,Michael Pannapacker Admin,Global Reader,admin.mp@bridgenext.com,admin.mp@bridgenext.com,Direct
+Active,John Phipps Admin,Global Reader,,admin.jp@bridgenext.com,Direct
+Active,Patrick Sinkula Admin,Global Reader,,admin.ps@bridgenext.com,Direct
+Active,Joseph Fontanez Admin,Global Reader,,Admin.JF@bridgenext.com,Direct
+Active,Luis Allbritton Admin Account,Global Reader,,admin.la@bridgenext.com,Direct
+Active,Brett Slawter Admin,Global Reader,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,Sandeep Sontakke Admin account,Global Reader,,admin.ss@bridgenext.com,Direct
+Active,Larry Cohen  Admin,Global Reader,,admin.lc@bridgenext.com,Direct
+Active,Ashish Patil Admin,Global Reader,,Admin.AP@bridgenext.com,Direct
+Active,Microsoft.Azure.SyncFabric,Directory Readers,,00000014-0000-0000-c000-000000000000,Direct
+Active,Brett Slawter Admin,Compliance Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,Bit Titan,Teams Administrator,bit.titan@bridgenext.com,bit.titan@bridgenext.com,Direct
+Active,TCAP Admin,Teams Administrator,,tcap.f6e250@EmtecIT.onmicrosoft.com,Direct
+Active,Migration  Bridge,Teams Administrator,bridge.migration@bridgenext.com,bridge.migration@bridgenext.com,Direct
+Active,BridgeNext,Teams Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,Brett Slawter Admin,Teams Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,Cloud Service Delivery - Temp Admin,Teams Administrator,csd@bridgenext.com,csd@bridgenext.com,Direct
+Active,Bit Titan,SharePoint Administrator,bit.titan@bridgenext.com,bit.titan@bridgenext.com,Direct
+Active,Migration  Bridge,SharePoint Administrator,bridge.migration@bridgenext.com,bridge.migration@bridgenext.com,Direct
+Active,John Phipps Admin,SharePoint Administrator,,admin.jp@bridgenext.com,Direct
+Active,BridgeNext,SharePoint Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,Brett Slawter Admin,SharePoint Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,Cloud Service Delivery - Temp Admin,SharePoint Administrator,csd@bridgenext.com,csd@bridgenext.com,Direct
+Active,Brett Slawter Admin,Security Administrator,admin.mbs@bridgenext.com,admin.mbs@bridgenext.com,Direct
+Active,BridgeNext,Helpdesk Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,BridgeNext,Service Support Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,BridgeNext,User Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,Bit Titan,Exchange Administrator,bit.titan@bridgenext.com,bit.titan@bridgenext.com,Direct
+Active,BridgeNext,Exchange Administrator,EmtecIT2023@EmtecIT.onmicrosoft.com,EmtecIT2023@EmtecIT.onmicrosoft.com,Direct
+Active,Cloud Service Delivery - Temp Admin,Exchange Administrator,csd@bridgenext.com,csd@bridgenext.com,Direct
